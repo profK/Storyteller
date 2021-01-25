@@ -26,7 +26,7 @@ namespace Storyteller
         {
             this.InitializeComponent();
             //test
-            AddButton(new SymbolIcon(Symbol.Audio), "audio", (obj, evt) => { Console.WriteLine("Click"); });
+            
         }
 
         public void AddButton(IconElement icon, string label, RoutedEventHandler cb = null)
