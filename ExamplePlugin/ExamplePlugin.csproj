@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\STPluginUtils\STPluginUtils.csproj" />
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="xcopy $(TargetDir)  $(ProjectDir)..\StorytellerServer\wwwroot\plugins\ExamplePlugin  /s /e /y /i" />
+  </Target>
+  
+
+</Project>

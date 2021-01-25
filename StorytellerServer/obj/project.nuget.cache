@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fJY1duXKWmT+SDBxS3XvLPsYEe8A6yPulPFJgrFyhNxzl5ZYWc4K50/oCneOFzKFCVX+A5OfInrWMwGfLu7sBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jeffp\\OneDrive\\Documents\\Workspaces\\Storyteller\\StorytellerServer\\StorytellerServer.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeffp\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

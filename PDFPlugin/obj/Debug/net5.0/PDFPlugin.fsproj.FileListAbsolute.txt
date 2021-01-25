@@ -1,0 +1,13 @@
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\PDFPlugin\obj\Debug\net5.0\PDFPlugin.fsprojAssemblyReference.cache
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\PDFPlugin\obj\Debug\net5.0\PDFPlugin.AssemblyInfoInputs.cache
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\PDFPlugin\obj\Debug\net5.0\PDFPlugin.AssemblyInfo.fs
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\PDFPlugin\bin\Debug\net5.0\PDFPlugin.deps.json
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\PDFPlugin\bin\Debug\net5.0\PDFPlugin.dll
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\PDFPlugin\bin\Debug\net5.0\PDFPlugin.pdb
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\PDFPlugin\bin\Debug\net5.0\Plugins.dll
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\PDFPlugin\bin\Debug\net5.0\STPluginUtils.dll
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\PDFPlugin\bin\Debug\net5.0\STPluginUtils.pdb
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\PDFPlugin\bin\Debug\net5.0\Plugins.pdb
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\PDFPlugin\obj\Debug\net5.0\PDFPlugin.fsproj.CopyComplete
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\PDFPlugin\obj\Debug\net5.0\PDFPlugin.dll
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\PDFPlugin\obj\Debug\net5.0\PDFPlugin.pdb

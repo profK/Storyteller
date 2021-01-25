@@ -1,0 +1,15 @@
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\STPluginUtils\obj\Debug\net5.0\STPluginUtils.csprojAssemblyReference.cache
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\STPluginUtils\obj\Debug\net5.0\STPluginUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\STPluginUtils\obj\Debug\net5.0\STPluginUtils.AssemblyInfoInputs.cache
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\STPluginUtils\obj\Debug\net5.0\STPluginUtils.AssemblyInfo.cs
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\STPluginUtils\obj\Debug\net5.0\STPluginUtils.csproj.CoreCompileInputs.cache
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\STPluginUtils\bin\Debug\net5.0\STPluginUtils.deps.json
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\STPluginUtils\bin\Debug\net5.0\STPluginUtils.dll
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\STPluginUtils\bin\Debug\net5.0\ref\STPluginUtils.dll
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\STPluginUtils\bin\Debug\net5.0\STPluginUtils.pdb
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\STPluginUtils\bin\Debug\net5.0\Plugins.dll
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\STPluginUtils\bin\Debug\net5.0\Plugins.pdb
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\STPluginUtils\obj\Debug\net5.0\STPluginUtils.csproj.CopyComplete
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\STPluginUtils\obj\Debug\net5.0\STPluginUtils.dll
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\STPluginUtils\obj\Debug\net5.0\ref\STPluginUtils.dll
+C:\Users\jeffp\OneDrive\Documents\Workspaces\Storyteller\STPluginUtils\obj\Debug\net5.0\STPluginUtils.pdb
